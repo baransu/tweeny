@@ -31,6 +31,7 @@
 
 #include "tween.h"
 #include "dispatcher.h"
+#include <string>
 
 namespace tweeny {
 
